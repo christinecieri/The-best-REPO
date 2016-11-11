@@ -1,2 +1,2 @@
 {:name=>"yesterday", :time=>"yesterday", :adjective=>"delicious"}
-The line of code is shit yikes! holy moly! 
+That line of code is shit yikes! holy moly! 
